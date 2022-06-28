@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 window = Tk()
 
-window.title("Welcome to LikeGeeks app")
+window.title("Welome to techBOT portal!")
 
 window.geometry('800x800')
 
